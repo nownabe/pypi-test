@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 version = "0.1.0"
 
 setup(
-    name="pypi-test",
+    name="pypi_test",
     version=version,
     packages=find_packages(),
     install_requires=[],
